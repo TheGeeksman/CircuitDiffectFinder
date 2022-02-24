@@ -1,3 +1,4 @@
 # Project exclude paths
 /venv/
+/.idea/
 /deffects_detector/migrations/
